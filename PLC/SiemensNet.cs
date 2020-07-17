@@ -16,7 +16,7 @@ namespace PLC
         /// <summary>
         /// 
         /// </summary>
-        private SocketClient plc = new SocketClient();//ooo
+        private SocketClient plc = new SocketClient();
 
         /// <summary>
         /// 是否连接
